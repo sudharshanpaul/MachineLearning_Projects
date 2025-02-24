@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: mlproject
+Version: 0.0.1
+Author: Sudharshan Paul
+Author-email: sudarshanpaul@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: ipykernel
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
